@@ -219,4 +219,4 @@ Grad-CAM visualizations indicate model attention and should not be interpreted a
 
 ## Author
 
-Developed as part of an AI / medical imaging project.
+Developed by Mr Hamza / medical imaging project.
