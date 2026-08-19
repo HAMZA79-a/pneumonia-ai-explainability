@@ -6,3 +6,4 @@ __pycache__/
 .ipynb_checkpoints/ 
 .env 
 data/ 
+pre_improved.ipynb 
